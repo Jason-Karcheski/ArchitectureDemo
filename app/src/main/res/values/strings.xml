@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Architecture Demo</string>
+    <string name="no_posts_found">No posts found</string>
+    <string name="no_post_found">No post found</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="posts">Posts</string>
+    <string name="post_details">Post Details</string>
+</resources>
